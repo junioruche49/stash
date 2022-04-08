@@ -1,0 +1,3 @@
+**/*.snap
+/package-lock.json
+/public/mockServiceWorker.js
